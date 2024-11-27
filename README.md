@@ -13,11 +13,11 @@
 ---
 
 ## 🛠️ **Tech Stack**
-- **Languages**: JavaScript, C, C++, Python  
+- **Languages**: C, C++, JavaScript, Python  
 - **Frontend**: React.js, HTML, CSS, TailwindCSS  
-- **Backend**: Node.js, Express.js, MongoDB  
+- **Backend**: Node.js, Express.js, MongoDB, MySQL
 - **Tools**: Git, GitHub, Firebase, REST APIs  
-- **Other Skills**: Problem Solving, DSA, Communication  
+- **Other Skills**: Problem Solving, DSA, Communication 
 
 ---
 
@@ -28,26 +28,28 @@
 - **Highlights**:  
   - JWT authentication for secure user sessions.  
   - Reduced API load time by 30% through optimized queries.  
-  - [Live Demo](https://renify.netlify.app)  
+  - [Live Demo](https://renify.vercel.app)  
 
 ### 📹 **Video Streaming Platform**  
 *Search and stream videos using YouTube API*  
-- **Tech**: React.js, TailwindCSS  
+- **Tech**: React.js, TailwindCSS, YouTube API
 - **Highlights**:  
-  - Integrated YouTube API for video playback.  
-  - Added dark mode and responsive design, improving retention by 15%.  
+  - Integrated YouTube API for video playback and Searching.  
+  - Added dark mode and responsive design.
+  - Cool User interface and Animation.
 
 ---
 
 ## 🌱 **What I'm Learning**
 - Advanced **DSA** concepts  
-- Scalable architecture with **microservices**  
+- Scalable architecture with **microservices**
+- Dive into Real World Projects and Cahllenges
 
 ---
 
 ## 📫 **Connect with Me**
 - 💼 **LinkedIn**: [Piyush Patel](https://www.linkedin.com/in/piyush-patel-b87543274/)  
-- 📧 **Email**: piyushpatel@gmail.com  
+- 📧 **Email**: piyushpatel@gmail.com
 
 ---
 
